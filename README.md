@@ -79,7 +79,7 @@ shopwise-ai/
 ### Step 0 — Clone & Install Dependencies
 
 ```bash
-git clone https://github.com/yourusername/shopwise-ai.git
+git https://github.com/vincensiuselang/shopwise-ai.git
 cd shopwise-ai
 pip install -r requirements.txt
 ```
